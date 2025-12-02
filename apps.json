@@ -1,0 +1,5 @@
+[
+  {"bank":"CBE","app_name":"Commercial Bank of Ethiopia Mobile","package":"com.combanketh.mobilebanking"},
+  {"bank":"BOA","app_name":"BoA Mobile","package":"com.boa.boaMobileBanking"},
+  {"bank":"Dashen","app_name":"Dashen Super App","package":"com.dashen.dashensuperapp"}
+]

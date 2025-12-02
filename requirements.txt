@@ -1,0 +1,13 @@
+pandas>=1.5
+numpy
+google-play-scraper>=0.1.5
+transformers>=4.30
+torch>=1.12
+scikit-learn
+spacy>=3.5
+nltk
+tqdm
+python-dateutil
+vaderSentiment
+matplotlib
+seaborn
